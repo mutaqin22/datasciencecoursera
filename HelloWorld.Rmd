@@ -1,0 +1,6 @@
+---
+title: "coursera project"
+author: "choirul muttaqin"
+date: "8/6/2020"
+output: html_document
+---
